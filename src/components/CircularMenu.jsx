@@ -22,7 +22,7 @@ const CircularMenu = () => {
         <AnchorLink href="#home" className="menu-item">
           <img src={require("../assets/home (1).png")} alt="Home" />
         </AnchorLink>
-        <AnchorLink href="#skills" className="menu-item">
+        <AnchorLink href="#about" className="menu-item">
           <img src={require("../assets/layer (1).png")} alt="Skills" />
         </AnchorLink>
         <AnchorLink href="#projects" className="menu-item">

@@ -10,6 +10,7 @@ const DotGroup = ({ selectedPage, setSelectedPage }) => {
       >
         <img
           src={require('../assets/home.png')}
+          
           alt="Home"
         />
       </AnchorLink>
